@@ -11,8 +11,7 @@ Official Homebrew Tap for OpenCrawling command-line tools.
   # Install the oc CLI
   brew install oc
 
-## 🔍 Verification
-
+  ## 🔍 Verification
   oc --version
   oc --help
 
