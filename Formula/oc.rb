@@ -16,7 +16,7 @@ class Oc < Formula
   desc "OpenCrawling CLI (oc) for DevSecOps & Terminal Ingestion Management"
   homepage "https://opencrawling.org"
   url "https://github.com/opencrawling/opencrawling/releases/download/v1.0.4/oc-cli-1.0.4.jar"
-  sha256 "8ec4debd5eef324a4d7f09a5c28cdb0855899d7f03a4f57a8244135397a93757"
+  sha256 "732280861be5a51269e95ac0beb1cf5ba831907e8dbe4f5622526124e16b6471"
   license "Apache-2.0"
 
   depends_on "openjdk@25"
